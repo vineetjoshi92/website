@@ -8,3 +8,5 @@ updates made on master on Github before rebase
 
 ## Text
 changes that will conflict
+
+Few changes to provide examples
